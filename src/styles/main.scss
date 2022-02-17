@@ -1,0 +1,12 @@
+
+@import './utils/vars.scss';
+
+#main {
+	padding: 0 15px;
+}
+
+@import './utils/style.scss';
+@import './components/header.scss';
+@import './components/grid.scss';
+@import './components/feedback.scss';
+@import './components/footer.scss';
